@@ -86,4 +86,4 @@ Apenas instalando os arquivos de projeto:
 </br>
 <img src="/src/assets/telaCatalogo.png" heigth="600">
 
- 
+---
