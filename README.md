@@ -7,11 +7,10 @@ Full Stack Project
 ## 📋 Índice
 
 - [Observações](#-observações)
-- [Web site work](#👾-web-site-work)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como executar o projeto](#-como-executar-o-projeto)
 - [Construído com](#%EF%B8%8F-construído-com)
-- [Autor](#%EF%B8%8F-autor)
+- [Desenvolvedores](#%EF%B8%8F-desenvolvedores)
 
 ---
 
@@ -42,6 +41,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML 5
 - JAVASCRIPT
 - REACT
+-TYPESCRIPT
 - API Rest: JAVA 17
 - Spring Boot
 
