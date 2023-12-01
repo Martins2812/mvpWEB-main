@@ -1,7 +1,7 @@
 import { HomeContainer, HomeBackground, HomeDescript, DescriptText, Test, ButtonAccess,Logo ,HomeImageIlustration} from './style';
 import { useNavigate } from 'react-router-dom';
 import { Navbar } from '../../components/Navbar/Navbar';
-import logo from '../../assets/logoUnifeso.png';
+import logo from '../../assets/iconUnifeso.png';
 
 export function Home() {
     const navigate = useNavigate();

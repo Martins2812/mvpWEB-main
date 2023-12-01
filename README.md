@@ -1,11 +1,12 @@
-# Projeto MVP
+# Projeto MVP - Situação #2 - Editora UNIFESO
 
-Full Stack Project
+- Full Stack Project
  
 --- 
 
 ## 📋 Índice
 
+- [Descrição do MVP](#-descrição-do-mvp)
 - [Observações](#-observações)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como executar o projeto](#-como-executar-o-projeto)
@@ -18,6 +19,12 @@ Full Stack Project
 
 </br>
 <img src="/src/assets/show404.jpg" heigth="600">
+
+---
+
+## 📚 Descrição do MVP
+
+Um site desenvolvido para a faculdade UNIFESO - CENTRO UNIVERSITÁRIO SERRA DOS ÓRGÃOS, com o intuído de resolver o problema Situação #2 - Editora UNIFESO. Neste projeto temos diversas funcionalidades como poder realizar uma publicação de suas habilidades, editar e excluir também é possível. Design clean e otimizado para o usuário conseguir ter mais facilidade na hora de mexer. Foi implementado também o catálogo, que seria onde ficam todas as suas publicações armazanadas. Sistema com níveis de acesso, usuário logado e deslogado, segurançã de ponta utilizando token e refresh token. 
 
 ---
 
@@ -41,7 +48,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML 5
 - JAVASCRIPT
 - REACT
--TYPESCRIPT
+- TYPESCRIPT
 - API Rest: JAVA 17
 - Spring Boot
 
@@ -64,7 +71,9 @@ Apenas instalando os arquivos de projeto:
 
 ## ✒️ Desenvolvedores
 
-  * [ Lucas Martins e Yuri Ramos](https://github.com/nathanfdias/) 
+  * [ Lucas Martins ](https://github.com/Martins2812) 
+
+  * [ Yuri Ramos ](https://github.com/Yuri-Ramos) 
 
 --- 
  

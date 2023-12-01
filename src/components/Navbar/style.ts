@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const NavBarContainer = styled.main`
   position: sticky;
   height: 70px;
-  background-color: #217373;
+  background-color: #309292;
   display: flex;
   justify-content: space-between;
   align-items: center;

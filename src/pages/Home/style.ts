@@ -68,7 +68,7 @@ export const Test = styled.div`
 `;
 
 export const Logo = styled.img`
-  height: 5.6rem;
+  height: 4.5rem;
 `;
 
 export const DescriptText = styled.div`
